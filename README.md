@@ -3,7 +3,7 @@
 ### Software Engineer | US Permanent Resident
 [GitHub](https://github.com/ibrokhim-mirsalikhov) | [LinkedIn](http://www.linkedin.com/in/ibrokhim-mirsalikhov) | [Email](mailto:ibrokhim.mirsalikhov@gmail.com)
 
-Built blogpost application. Areas: media, entertainment, finance.
+Back-end developer with a passion for DevOps
 
 EXPERIENCE
 -
@@ -27,7 +27,7 @@ BSc in Computer Science**
 
  - Honors Program
  - Awardee of Roosevelt and Honors Scholarship
-- 
+  
 **Inha University (Tashkent, Uzbekistan), 2021 – 2022 <br>
 Incomplete BSc in Computer Science**
 
@@ -40,6 +40,12 @@ EXTRACURRICULAR ACTIVITIES
 -
 Participated in an ethical hacker camp organized by the Scientific Cyber Security Association in Tbilisi, Georgia
 - Skills learned: penetration testing, computer networking, Kali Linux, and Python.
+
+Skills
+-
+- C++, Python, Golang, Django, Node.js, HTML, CSS, JavaScript, Rest API, GIT, SQL, Linux, Shell scripting, Computer Networking, DevOps fundamentals
+
+
  
  
 
