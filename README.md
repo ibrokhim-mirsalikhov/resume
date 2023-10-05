@@ -1,7 +1,7 @@
 
 # Ibrokhim Mirsalikhov
 ### Software Engineer | US Permanent Resident
-[GitHub](https://github.com/ibrokhim-mirsalikhov) | [LinkedIn](http://www.linkedin.com/in/ibrokhim-mirsalikhov) | [Email](mailto:ibrokhim.mirsalikhov@gmail.com)
+[GitHub](https://github.com/ibrokhim-mirsalikhov) | [LinkedIn](http://www.linkedin.com/in/ibrokhim-mirsalikhov) | [Email](mailto:ibrokhimjon.mirsalikhov@gmail.com)
 
 Back-end developer with a passion for DevOps
 
